@@ -118,6 +118,7 @@ def check_repeats(l)
   repeat
 end
 
+# check_bots -- count bots and accumulate bot distribution @bot_hash{}
 def check_bots(l)
   aBot = false
   @bot_tokens.each do |b|
