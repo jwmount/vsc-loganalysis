@@ -10,6 +10,7 @@ VAC_bot_tokens = %w[ nil bot crawl seek scan search dig agent get spider scooter
 class Qry < QClass  
   def initialize( file_in, out_file, limit)
     super( file_in, out_file, limit)
+    @bots = 0
     @isbot = false
     filter
   end
@@ -18,26 +19,27 @@ class Qry < QClass
   # READ LOOP
     File.open( file_in, modestring = "r") do |f|
       f.each($/) do |line|
-#        next if line =~ /^#|^=/  or line =~ /^$/  #skip comment and blank lines
+        next if line =~ /^#|^=/  or line =~ /^$/  #skip comment and blank lines
         limit?
         progress?
-        @isbot = false
         fields = line.split("\t")
         next if fields.length < UA_ID
         fields[UA_ID].downcase!
-#fields[UA-id].casecmp(string)
+        @isbot = false
         BOT_TOKENS.each do |b| 
-          if fields[UA_ID].match(b)
-            @bots = (@bots ||= 0 ) + 1
-            @isbot = true
+          if fields[UA_ID].include?(b)
+            @bots += 1
+            @isbot = true 
           end
+          break if @isbot
         end
-        write(line) unless @isbot
+      write(line) unless @isbot
       end #read block    
     end #file block
 
   wrap_up("\nBOTS\t\t\t\t\t\t\t\t" + @bots.to_s  + "\n\n")
   end
+
 end
 
 Qry.new( (ARGV[0] ||= "qry_file.txt"), (ARGV[1] ||= "qry_file_out.txt"), (ARGV[2] ||= 100000000) )

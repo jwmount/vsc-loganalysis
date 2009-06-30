@@ -1,0 +1,147 @@
+# BOTS
+
+# 1 bot
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	 this is a BOT	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+# 2 Mediapartners-Google
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	Mediapartners-Google	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+# 3 inktomi
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	inktomi	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+# 4 slurp
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	slurp	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+# 5 turnitin
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	turnitin	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+# 6 ask.com
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	ask.com	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#7 yahoo
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	yahoo	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#8 Transcoder
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	Transcoder	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#9 hotjobs
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	hotjobs	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#10 voyager
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	voyager	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#11 lwp-trivial
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	lwp-trivial	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#12 Mail.Ru
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	Mail.Ru	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#13 teoma
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	teoma	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#14 crawler
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	crawler	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#15 findlinks
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	findlinks	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#16 Twiceler
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	Twiceler	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#17 ia_archiver-web
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	ia_archiver-web	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#18 NutchCVS
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	NutchCVS	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#19 wwwster
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	wwwster	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#20 spider
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	spider	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#21 SBIder
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	SBIder	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#22 WinHttpRequest
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	WinHttpRequest	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#23 RPT-HTTPClient
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	RPT-HTTPClient	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#24 ichiro
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	ichiro	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#25 CFNetwork
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	CFNetwork	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#26 nagios
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	nagios	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#27 lwp::simple
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	lwp::simple	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#28 libwww
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	libwww	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#30 Python-urllib
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	Python-urllib	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#30 wget
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	wget	www148e4d922a9bee	www148e4d922aa3bd		
+http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#Good queries
+# 1
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Q312461; .NET CLR 1.1.4322; .NET CLR 2.0.50727)	www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+# 2
+www1.tuk.intelius.com-yp-searches.log.10052008.gz:2008-10-04 09:18:09	126	2444	107	13	1	74.37.41.100	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbc=city+hall&qc=long+creek%2C+il	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)	www148e79741823fa	www148e7974182bc9		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=74.37.41.100&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+6.0%3B+SLCC1%3B+.NET+CLR+2.0.50727%3B+Media+Center+PC+5.0%3B+.NET+CLR+3.0.04506%29&visitorId=www148e79741823fa&sessionId=www148e7974182bc9&serving=all&geoExpand=yes&what=city+hall&where=long+creek%2C+il%2C+&type=byType&pageNumber=1&pageSize=10&sort=relevance
+
+# 3
+www1.tuk.intelius.com-yp-searches.log.10052008.gz:2008-10-04 09:18:26	126	2444	107	13	1	74.37.41.100	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbc=City&qc=Long+Creek&qs=IL	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)	www148e79741823fa	www148e7974182bc9	http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=74.37.41.100&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+6.0%3B+SLCC1%3B+.NET+CLR+2.0.50727%3B+Media+Center+PC+5.0%3B+.NET+CLR+3.0.04506%29&visitorId=www148e79741823fa&sessionId=www148e7974182bc9&serving=all&geoExpand=yes&what=City&where=Long+Creek%2C+IL&type=byType&pageNumber=1&pageSize=10&sort=relevance
+
+# 4
+www1.tuk.intelius.com-yp-searches.log.10052008.gz:2008-10-04 09:18:34	126	2444	107	12	2	74.37.41.100	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qc=Long+Creek&qs=IL	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)	www148e79741823fa	www148e7974182bc9		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=74.37.41.100&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+6.0%3B+SLCC1%3B+.NET+CLR+2.0.50727%3B+Media+Center+PC+5.0%3B+.NET+CLR+3.0.04506%29&visitorId=www148e79741823fa&sessionId=www148e7974182bc9&serving=all&geoExpand=yes&what=&where=Long+Creek%2C+IL&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+# 5
+www1.tuk.intelius.com-yp-searches.log.10072008.gz:2008-10-06 08:37:38	126	2444	107	12	2	206.180.38.20	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=memorial+church	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)	www22485a854d28e76	www148ea30c146a29		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=206.180.38.20&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+6.0%3B+Windows+NT+5.1%3B+SV1%3B+.NET+CLR+1.1.4322%3B+InfoPath.1%3B+.NET+CLR+2.0.50727%29&visitorId=www22485a854d28e76&sessionId=www148ea30c146a29&serving=all&geoExpand=yes&what=memorial+church&where=&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+# 6
+www1.tuk.intelius.com-yp-searches.log.10072008.gz:2008-10-06 08:37:38	126	2444	107	13	2	206.180.38.20	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=memorial+church	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)	www22485a854d28e76	www148ea30c217849		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=206.180.38.20&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+6.0%3B+Windows+NT+5.1%3B+SV1%3B+.NET+CLR+1.1.4322%3B+InfoPath.1%3B+.NET+CLR+2.0.50727%29&visitorId=www22485a854d28e76&sessionId=www148ea30c217849&serving=all&geoExpand=yes&what=memorial+church&where=&type=byType&pageNumber=1&pageSize=10&sort=relevance
+
+# 7
+www1.tuk.intelius.com-yp-searches.log.10072008.gz:2008-10-06 08:37:44	126	2444	107	12	1	206.180.38.20	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&original_qs=OHIO&qbn=memorial+church&qc=xenia&qs=OH	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727)	www22485a854d28e76	www148ea30c217849		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=206.180.38.20&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+6.0%3B+Windows+NT+5.1%3B+SV1%3B+.NET+CLR+1.1.4322%3B+InfoPath.1%3B+.NET+CLR+2.0.50727%29&visitorId=www22485a854d28e76&sessionId=www148ea30c217849&serving=all&geoExpand=yes&what=memorial+church&where=xenia%2C+OH&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+# 8
+www1.tuk.intelius.com-yp-searches.log.10082008.gz:2008-10-07 07:44:34	126	2444	107	12	2	199.180.17.10	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=lone+oak+chiropactor&qc=paducah&qs=KY	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30)	www14487fa59b50a1a	www148eb75d1b574c		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=199.180.17.10&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+6.0%3B+Windows+NT+5.1%3B+SV1%3B+.NET+CLR+2.0.50727%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+3.0.04506.30%29&visitorId=www14487fa59b50a1a&sessionId=www148eb75d1b574c&serving=all&geoExpand=yes&what=lone+oak+chiropactor&where=paducah%2C+KY&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+# 9
+www1.tuk.intelius.com-yp-searches.log.10082008.gz:2008-10-07 07:44:34	126	2444	107	13	1	199.180.17.10	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=lone+oak+chiropactor&qc=paducah&qs=KY	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30)	www14487fa59b50a1a	www148eb75d232194		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=199.180.17.10&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+6.0%3B+Windows+NT+5.1%3B+SV1%3B+.NET+CLR+2.0.50727%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+3.0.04506.30%29&visitorId=www14487fa59b50a1a&sessionId=www148eb75d232194&serving=all&geoExpand=yes&what=lone+oak+chiropactor&where=paducah%2C+KY&type=byType&pageNumber=1&pageSize=10&sort=relevance
+
+# 10 no user agent field, counted as NOT a bot
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665		www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#VALIDS filter tests
+# 1 field
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665		www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance
+
+#2 valids field present and value is 0
+# 10 no user agent field, counted as NOT a bot
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665		www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance	0
+
+#3 valids field present, not zero
+# 10 no user agent field, counted as NOT a bot
+www1.tuk.intelius.com-yp-searches.log.10032008.gz:2008-10-02 07:22:27	126	2444	107	12	1	216.49.114.142	0	webcrawler.intelius.com/yp_results.php?ReportType=44&provider=107&qbn=Owensville&qz=47665		www148e4d922a9bee	www148e4d922aa3bd		http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=216.49.114.142&browserAgent=Mozilla%2F4.0+%28compatible%3B+MSIE+7.0%3B+Windows+NT+5.1%3B+Q312461%3B+.NET+CLR+1.1.4322%3B+.NET+CLR+2.0.50727%29&visitorId=www148e4d922a9bee&sessionId=www148e4d922aa3bd&serving=all&geoExpand=yes&what=Owensville&where=47665&type=byName&pageNumber=1&pageSize=10&sort=relevance	1
+
+#4 valids as retrieved from server console; yes, there are 10 lines here and no tabs, fields are blank delimited, 80 columns wide including '\n'
+www101.tuk.intelius.com-yp-searches.log.05212009.gz:2009-05-20 1
+6:32:49 169     2529    107     11      1       66.249.73.186   1       yellowpa
+ges.theyellowpages.com  /yp_results.php?ReportType=44&provider=107&qbc=Architect
+s&qi=0&qk=16&qz=06022   Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.goog
+le.com/bot.html)        www1014a14932167e91     www1014a14932168662     0
+http://api.yellowbook.com/yb_rest/GetListings.ashx?version=1.4&clientIp=66.249.7
+3.186&browserAgent=Mozilla%2F5.0+%28compatible%3B+Googlebot%2F2.1%3B+%2Bhttp%3A%
+2F%2Fwww.google.com%2Fbot.html%29&visitorId=www1014a14932117583&sessionId=www101
+4a14932117d51&serving=all&geoExpand=yes&what=Architects&where=06022&type=byType&
+pageNumber=1&pageSize=16&sort=relevance 0
