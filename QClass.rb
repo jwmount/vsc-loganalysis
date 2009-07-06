@@ -1,5 +1,6 @@
 #QClass = Class.new
 #module QCLASS
+# (c) Copyright 2009 VenueSoftware Corp. All Rights Reserved.
 class QClass
   UA_ID = 10
   UA_id = 9  #remove this soon

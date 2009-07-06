@@ -12,7 +12,6 @@ class Qry < QClass
   def initialize( file_in, out_file, limit)
     super( file_in, out_file, limit)
     @bots = 0
-    @blank_bots = 0
     @isbot = false
     filter
   end
@@ -27,7 +26,6 @@ class Qry < QClass
         fields = line.split("\t")
         if fields[UA_ID].length == 0
           @bots += 1
-          @blank_bots += 1
           next
         end
         next if fields.length < UA_ID
@@ -45,7 +43,6 @@ class Qry < QClass
     end #file block
 
   wrap_up("\nBOTS\t\t\t\t\t\t\t\t" + @bots.to_s  + "\n\n")
-  puts @blank_bots
   end
 
 end
