@@ -2,6 +2,7 @@
 #module QCLASS
 # (c) Copyright 2009 VenueSoftware Corp. All Rights Reserved.
 class QClass
+  R_ID = 2
   UA_ID = 10
   UA_id = 9  #remove this soon
   QRY_type = 5

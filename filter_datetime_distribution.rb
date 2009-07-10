@@ -35,7 +35,8 @@ class Qry < QClass
   # HOURLY DISTRIBUTION
   log( "Hourly frequency distribution by day of month\n_____________________________________________\n\n" )
   log ""
-  i = 0
+  i,@max = 0
+  @min = 1000000000    #arbitraily large outter bound
   # each element in @dtcount is an array of hours so we iterate over @dtcount itself, NOT @dtcount[1..31].each do |d|
   @dtcount.each do |d|
     i += 1
