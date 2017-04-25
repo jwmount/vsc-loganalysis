@@ -1,0 +1,6 @@
+A set of Ruby scripts to conduct analytical passes over very large Apache log files coming from server farms.  
+Somewhat self-explanatory based on file names and reading comments in code.  One of these scripts when cached 
+achieved an average processing rate of 120k records per second on OS X MacBook Pro.  Amazing fast.  Lots of fun 
+exercises conducted in these puppies.  Used to determine percent of users per period of time that were actually bots, 
+for example you can get distribution of bots per hour by time of day, things like that.  These days a real time 
+big data analytics dashboard would probably work better, but you wouldn't have as much fun.
